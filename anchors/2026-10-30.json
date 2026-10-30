@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-30",
+  "release_id": "389fbb0ab5462db894b36e61e855ef57f612dc42",
+  "chains": [
+    {
+      "name": "explanation_incidents",
+      "head": null,
+      "record_count": 0
+    },
+    {
+      "name": "report_narratives",
+      "head": null,
+      "record_count": 3
+    }
+  ],
+  "_disclaimer": "Vettify uses AI and public records to produce this report, and it can make mistakes. Before you rely on this report, check it with a licensed professional, such as a solicitor, conveyancer, building inspector or surveyor, and take particular care with checks marked 'needs attention' or 'couldn’t verify'. Vettify is not a licensed valuer, lawyer or financial adviser, and this report is for information only. Data is sourced mainly from Australian and NSW government agencies, with some community services; see the Data Sources page for the full list. Vettify is not responsible for your property, financial, or legal decisions.",
+  "_source_retrieved": "2026-10-30T08:41:27.686Z"
+}
